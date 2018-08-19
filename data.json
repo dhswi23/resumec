@@ -1,0 +1,44 @@
+{
+	"details":{
+		"image":"ale.jpg",
+		"name":"harsha",
+	"rollno":"16NN1A05C3"
+},
+"education":[
+{
+	"course":"b.tech",
+	"college":"vignan"
+},
+{
+	"course":"inter",
+	"college":"vignan"
+}
+],
+"skillset":[
+{
+	"name":"OS",
+	"values":"windows,mac"
+},
+{
+      "name":"programming languages",
+      "values":"c,c++"
+}
+],
+
+"careerobjective":{
+
+		"name":"co",
+		"value":"I will utilize  my skills for development of  company and myself" 
+
+},
+"achievements":[
+	"we got second in drama",
+	"I got first in centralzone for skillexihibit" 
+],
+
+	"description":
+	{
+
+		"des":"I hereby declare all above stated was true "
+	}
+}
